@@ -18,7 +18,7 @@ file) in (1) the bot will send it to (2) and (3) with a few lines showing the ID
 In 2, replying to the question message sent by the bot using #answer (or the AnswerWord in the 
 config file) will send the answer to 1 and 3, showing who answered it and providing a link to the question. 
 
-It supports photos, documents and audios and the questions can be loaded in DM with the bot and answered right there.
+It supports photos, documents and audio and the questions can be loaded in DM with the bot and answered right there.
 
 ## How do I run it?
 
