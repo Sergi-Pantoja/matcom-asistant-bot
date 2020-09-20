@@ -1,6 +1,6 @@
 # MATCOM Assistant Telegram Bot:
 
-This project, a [Telegram](https://telegram.org/) bot, was started to assist Computer Science and Math students of the University of Havana (Cuba) in the organization of Telegram rooms to aid students in the preparation towards the University admissions tests during the covid19 crisis. This initiative has not direct ties with the University of Havana.
+This project, a [Telegram](https://telegram.org/) bot, was started to assist Computer Science and Math students of the University of Havana (Cuba) in the organization of Telegram rooms to aid students in the preparation towards the University admissions tests during the covid19 crisis. This initiative has no direct ties with the University of Havana.
 
 ## How does it works?
 
@@ -28,11 +28,13 @@ It supports photos, documents and audios and the questions can be loaded in DM w
 
 3. modify the config.ini file with your bot token and chat IDs
 
-4. ```
+4. Open a command line interface in the project folder and run the following commands
+
+5. ```
    pip install python-telegram-bot
    ```
 
-5. ```
+6. ```
    python bot.py
    ```
 
