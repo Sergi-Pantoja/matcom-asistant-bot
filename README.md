@@ -6,9 +6,11 @@ This project, a [Telegram](https://telegram.org/) bot, was started to assist Com
 
 Firstly, the bot needs to be admin in 3 chats:
 
-- A public group
-- A private group
-- A public channel
+1. A public group
+
+2. A private group
+
+3. A public channel
 
 When someone sends a message marked with #question (or the QuestionWord in the config 
 file) in (1) the bot will send it to (2) and (3) with a few lines showing the ID of the question, who asked it and a section with links to the current answers if any, this section will be edited every time a new answer is provided. 
